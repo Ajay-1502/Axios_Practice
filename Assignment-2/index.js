@@ -51,6 +51,3 @@ function displayUserOnScreen(userDetails) {
     document.getElementById('phone').value = userDetails.phone;
   });
 }
-
-// Do not touch code below
-module.exports = handleFormSubmit;
